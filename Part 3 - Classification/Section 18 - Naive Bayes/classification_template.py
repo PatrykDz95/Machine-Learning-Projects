@@ -21,6 +21,7 @@ X_train = sc.fit_transform(X_train)
 X_test = sc.transform(X_test)
 
 # Fitting classifier to the Training set
+from sklearn.naive_bayes import
 # Create your classifier here
 
 # Predicting the Test set results
